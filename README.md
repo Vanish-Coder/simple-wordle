@@ -9,9 +9,7 @@ A fun little remake of the classic (well technically, one change is you can play
 
 # Guide (step by step):
 
-## Downloading:
-To download the game, just tap on the green code button at the top, navigate to the "Local" tab on the top, and then press on "Download Zip". This will give you a zip file with all the code.
-
+### Install the latest release for best experience. 
 
 ## Playing the Game:
 
