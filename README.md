@@ -36,4 +36,4 @@ To download the game, just tap on the green code button at the top, navigate to 
 
 
 ### Final Notes:
-- I will probably update this somewhat constantly (at least for a while), so any current bugs (I don't think they are any, but I could be wrong), will probably be patched soon.
+- I will probably update this somewhat constantly (at least for a while), so any current bugs (I don't think they are any, but I could be wrong), will probably be patched soon (basically I'm saying, let me know of any bugs).
