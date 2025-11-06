@@ -9,7 +9,8 @@ A fun little remake of the classic (well technically, one change is you can play
 
 # Guide (step by step):
 
-### Install the latest release for best experience (older releases will work fine as well, but they will have more bugs and less features obviously). 
+### Install the latest release for best experience (older releases will work fine as well, but they will have more bugs and less features obviously).
+### Also prereleases may often be ridden with bugs, so if you want a smoother experience, you should install the latest FULL release. However, playing the prereleases will give you funner releases, so as long as you don't mind bugs too much, check it out (plus it helps with bug testing 😃).
 
 ## Playing the Game:
 
