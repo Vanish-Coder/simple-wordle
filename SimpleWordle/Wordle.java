@@ -9,6 +9,7 @@ import java.io.FileNotFoundException;
 
 /**
  *	Wordle.java
+ * Main class file
  */ 
 public class Wordle
 { 
@@ -85,7 +86,6 @@ public class Wordle
 	 *	The main method, to run the program.  The constructor is called, so that
 	 *	all of the fields are initialized.  The canvas is set up, and the GUI
 	 *	(the game of Wordle) runs.
-	 *	THIS METHOD IS INCOMPLETE.
 	 */
 	public static void main(String[] args)
 	{
@@ -202,7 +202,6 @@ public class Wordle
 	 *	Returns true if the word is in the file, false otherwise.
 	 *	@param possibleWord       the word to looked for in words5allowed.txt
 	 *	@return                   true if the word is in the text file, false otherwise
-	 *	THIS METHOD IS INCOMPLETE.
 	 */
 	public boolean inAllowedWordFile(String possibleWord)
 	{
@@ -404,7 +403,7 @@ public class Wordle
 	 *	enters the correct word with a guess.  The game is lost when the user does
 	 *	not enter the correct word with the last (6th) guess.  An appropriate message
 	 *	is displayed to the user in the form of a JOptionPane with JDialog for a win or a loss.
-	 *	THIS METHOD IS INCOMPLETE.
+	 *	THIS METHOD IS   .
 	 */
 	public void checkIfWonOrLost ( )
 	{
@@ -569,3 +568,4 @@ public class Wordle
 		}
 	}
 }
+
