@@ -17,7 +17,7 @@ A fun little remake of the classic (well technically, one change is you can play
 ### To play the game, do the following: 
 1. Go to the shell on your laptop.
 2. Go to the directory with the code inside it (to do so, use the command: cd [file directory info]).
-   - For example, assuming my game files were stored in Simple Wordle, in a manner like this (image below), I would use the command: cd Desktop/SimpleWordle
+   - For example, assuming my game files were stored in Simple Wordle, in a manner like this (image below), I would enter in: cd Desktop/SimpleWordle
   
 <img width="601" height="409" alt="Screenshot 2025-11-05 at 4 29 57 PM" src="https://github.com/user-attachments/assets/e1254f76-b81b-4fd7-8b66-cca0b352b9f2" />
 
@@ -27,7 +27,7 @@ A fun little remake of the classic (well technically, one change is you can play
 
 <img width="696" height="798" alt="Screenshot 2025-11-05 at 4 45 54 PM" src="https://github.com/user-attachments/assets/c771c174-b797-4feb-8554-cbdd222ce6a1" />
 
-5. Enjoy!
+5. Enjoy 🔥!
 - You can press the "Reset" button to reset the board and the word you have to guess
 - Also the on-screen keyboard is not just for show, it actually works.
 
