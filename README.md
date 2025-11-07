@@ -38,4 +38,4 @@ A fun little remake of the classic (well technically, one change is you can play
 
 ### Final Notes:
 - I will probably update this somewhat constantly so any current bugs (I don't think they are any, but I could be wrong), will probably be patched soon (as of now).
-- That being said, I will probably stop updating this (or at least stop frequently updating it) after a while (maybe a month or two?) as this is not an original project, so there's no point of putting too much work.
+- That being said, I will probably stop updating this (or at least stop frequently updating it) after a while (not sure when, just know I could drop updates for this at any time) as this is not an original project, so there's no point of putting too much work.
